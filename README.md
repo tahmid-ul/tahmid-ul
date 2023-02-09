@@ -1,7 +1,7 @@
 ## <div align="center">Hey 👋, I'm Tahmid ul Karim!</div>  
   
 
-#### <div align="center">A Passionate Programmer & WordPress Enthusiast </div>  
+#### <div align="center">A Passionate Programmer & WordPress Enthusiast. </div>  
   
 <br />
 
